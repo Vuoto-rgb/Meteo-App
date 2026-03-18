@@ -3,7 +3,7 @@
 Una web application dinamica che permette di visualizzare le condizioni meteo in tempo reale di qualsiasi città, integrando API esterne e un'interfaccia utente reattiva.
 
 ## 🚀 Demo Live
-Puoi provare l'applicazione qui: [Meteo App Live Demo](https://giulio-tartaglia-dev.github.io/E-Commerce-App/)
+Puoi provare l'applicazione qui: [Meteo App Live Demo](https://giulio-tartaglia-dev.github.io/Meteo-App//)
 
 ## 🛠️ Tecnologie Utilizzate
 * **Frontend**: HTML5, CSS3 (TailwindCSS) e JavaScript (ES6+).
