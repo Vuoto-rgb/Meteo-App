@@ -14,3 +14,5 @@ Puoi provare l'applicazione qui: [Meteo App Live Demo](https://giulio-tartaglia-
 * Ricerca dinamica per nome della città.
 * Visualizzazione di temperatura, umidità e condizioni atmosferiche.
 * Interfaccia responsive per una navigazione ottimale su desktop e mobile.
+---
+*Progetto realizzato da [Giulio Tartaglia](https://github.com/Giulio-Tartaglia-Dev)*
